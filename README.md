@@ -1,4 +1,4 @@
-### Ola meu nome e Gabriel Dos S N Martins 👋
+### Ola meu nome e Gabriel Dos S N Martins 👋.
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielhdossnamartins/)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabrieldossnmartins)
@@ -10,7 +10,7 @@
 
 
 
- Linguagens que estudo 📚 
+ Linguagens que estudo 📚 ...
 
 <div style="display: inline_block">
 
@@ -22,7 +22,7 @@
  
 </div><br/>
 
- Sobre meu Workspace Spec
+ Sobre meu Workspace Spec.
  
 [![Blog](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
@@ -31,7 +31,7 @@
 
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0HxyJSYla3Hv9TTyfpObY4)
 
-Plataformas que gosto de jogar 
+Plataformas em que gosto de jogar. 
 
 [![Blog](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
@@ -39,13 +39,13 @@ Plataformas que gosto de jogar
 
 
 
-
-[![Blog]()]()
-[![Blog]()]()
-[![Blog]()]()
-
-
 <!--
+[![Blog]()]()
+[![Blog]()]()
+[![Blog]()]()
+
+
+
 **spektremkev/spektremkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
