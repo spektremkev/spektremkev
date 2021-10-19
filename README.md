@@ -1,4 +1,5 @@
 ### Ola meu nome e Gabriel Dos S N Martins 👋.
+
 ![](https://komarev.com/ghpvc/?username=spektremkev&show)
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielhdossnamartins/)
@@ -21,10 +22,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
 </div><br/>
  
- Sobre meu Workspace Spec.
+ Sobre meu Workspace.
  
 [![Blog](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
@@ -32,6 +32,8 @@
 [![Blog](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0HxyJSYla3Hv9TTyfpObY4)
+[![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 
 Plataformas em que gosto de jogar. 
 
@@ -41,6 +43,7 @@ Plataformas em que gosto de jogar.
 
 
 <!--
+<img align="center" alt="MYSQL" src=""/>
 [![Blog]()]()
 [![Blog]()]()
 [![Blog]()]()
