@@ -21,12 +21,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- 
-
-  ![Snake animation](https://github.com/spektremkev//spektremkev/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div><br/>
-
+ 
  Sobre meu Workspace Spec.
  
 [![Blog](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
