@@ -1,4 +1,5 @@
 ### Ola meu nome e Gabriel Dos S N Martins 👋.
+![](https://komarev.com/ghpvc/?username=spektremkev&show)
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielhdossnamartins/)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabrieldossnmartins)
@@ -19,7 +20,11 @@
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  
+
+  ![Snake animation](https://github.com/spektremkev//spektremkev/blob/output/github-contribution-grid-snake.svg)
+
 </div><br/>
 
  Sobre meu Workspace Spec.
@@ -35,7 +40,6 @@ Plataformas em que gosto de jogar.
 
 [![Blog](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
-
 
 
 
